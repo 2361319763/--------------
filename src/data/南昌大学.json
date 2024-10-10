@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "ae80e17014c47077293fe1ab193cf5b6",
+    "zyyjfxdm": "1040321033105111011",
+    "dwdm": "10403",
+    "dwmc": "南昌大学",
+    "schId": "368259",
+    "szssm": "36",
+    "szss": "江西",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "1",
+    "b985": "0",
+    "b211": "1",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "033",
+    "yxsmc": "第一临床医学院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": null,
+    "yjfxdm": "01",
+    "yjfxmc": "临床医疗技能训练与研究(普外)",
+    "zdjs": "不区分导师",
+    "nzsrs": 27,
+    "nzsrsstr": "研究方向：17(不含推免)",
+    "xxfs": "1",
+    "gbfs": "3",
+    "tydxs": "1",
+    "jsggjh": "1",
+    "ssjstmrs": 10,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "1d02a8d61daf2882bebdf0d16196abf1",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "6273b00ccc69ca7efee433cd79ce1af1",
+    "zyyjfxdm": "1040321033105111021",
+    "dwdm": "10403",
+    "dwmc": "南昌大学",
+    "schId": "368259",
+    "szssm": "36",
+    "szss": "江西",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "1",
+    "b985": "0",
+    "b211": "1",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "033",
+    "yxsmc": "第一临床医学院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": null,
+    "yjfxdm": "02",
+    "yjfxmc": "临床医疗技能训练与研究(泌尿外)",
+    "zdjs": "不区分导师",
+    "nzsrs": 21,
+    "nzsrsstr": "研究方向：17(不含推免)",
+    "xxfs": "1",
+    "gbfs": "3",
+    "tydxs": "1",
+    "jsggjh": "1",
+    "ssjstmrs": 4,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "1d02a8d61daf2882bebdf0d16196abf1",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "87946a5f3c23e5d376bf90c70251346b",
+    "zyyjfxdm": "1040321033105111031",
+    "dwdm": "10403",
+    "dwmc": "南昌大学",
+    "schId": "368259",
+    "szssm": "36",
+    "szss": "江西",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "1",
+    "b985": "0",
+    "b211": "1",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "033",
+    "yxsmc": "第一临床医学院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": null,
+    "yjfxdm": "03",
+    "yjfxmc": "临床医疗技能训练与研究(胸外)",
+    "zdjs": "不区分导师",
+    "nzsrs": 11,
+    "nzsrsstr": "研究方向：7(不含推免)",
+    "xxfs": "1",
+    "gbfs": "3",
+    "tydxs": "1",
+    "jsggjh": "1",
+    "ssjstmrs": 4,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "1d02a8d61daf2882bebdf0d16196abf1",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "e03d5dc0dc5024aeba5ea6c9f7e3a571",
+    "zyyjfxdm": "1040321033105111041",
+    "dwdm": "10403",
+    "dwmc": "南昌大学",
+    "schId": "368259",
+    "szssm": "36",
+    "szss": "江西",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "1",
+    "b985": "0",
+    "b211": "1",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "033",
+    "yxsmc": "第一临床医学院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": null,
+    "yjfxdm": "04",
+    "yjfxmc": "临床医疗技能训练与研究(心脏大血管外科)",
+    "zdjs": "不区分导师",
+    "nzsrs": 6,
+    "nzsrsstr": "研究方向：3(不含推免)",
+    "xxfs": "1",
+    "gbfs": "3",
+    "tydxs": "1",
+    "jsggjh": "1",
+    "ssjstmrs": 3,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "1d02a8d61daf2882bebdf0d16196abf1",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ad3b77ac39a9f9c14bf51c77767f9605",
+    "zyyjfxdm": "1040321033105111051",
+    "dwdm": "10403",
+    "dwmc": "南昌大学",
+    "schId": "368259",
+    "szssm": "36",
+    "szss": "江西",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "1",
+    "b985": "0",
+    "b211": "1",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "033",
+    "yxsmc": "第一临床医学院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": null,
+    "yjfxdm": "05",
+    "yjfxmc": "临床医疗技能训练与研究(神外)",
+    "zdjs": "不区分导师",
+    "nzsrs": 13,
+    "nzsrsstr": "研究方向：10(不含推免)",
+    "xxfs": "1",
+    "gbfs": "3",
+    "tydxs": "1",
+    "jsggjh": "1",
+    "ssjstmrs": 3,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "1d02a8d61daf2882bebdf0d16196abf1",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "fa047def1e507e681f8142af0cd56439",
+    "zyyjfxdm": "1040321033105111061",
+    "dwdm": "10403",
+    "dwmc": "南昌大学",
+    "schId": "368259",
+    "szssm": "36",
+    "szss": "江西",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "1",
+    "b985": "0",
+    "b211": "1",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "033",
+    "yxsmc": "第一临床医学院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": null,
+    "yjfxdm": "06",
+    "yjfxmc": "临床医疗技能训练与研究(整形)",
+    "zdjs": "不区分导师",
+    "nzsrs": 6,
+    "nzsrsstr": "研究方向：3(不含推免)",
+    "xxfs": "1",
+    "gbfs": "3",
+    "tydxs": "1",
+    "jsggjh": "1",
+    "ssjstmrs": 3,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "1d02a8d61daf2882bebdf0d16196abf1",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "1548f488aa488bf900ae66f9d2b38285",
+    "zyyjfxdm": "1040321033105111071",
+    "dwdm": "10403",
+    "dwmc": "南昌大学",
+    "schId": "368259",
+    "szssm": "36",
+    "szss": "江西",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "1",
+    "b985": "0",
+    "b211": "1",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "033",
+    "yxsmc": "第一临床医学院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": null,
+    "yjfxdm": "07",
+    "yjfxmc": "临床医疗技能训练与研究(烧伤)",
+    "zdjs": "不区分导师",
+    "nzsrs": 9,
+    "nzsrsstr": "研究方向：6(不含推免)",
+    "xxfs": "1",
+    "gbfs": "3",
+    "tydxs": "1",
+    "jsggjh": "1",
+    "ssjstmrs": 3,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "1d02a8d61daf2882bebdf0d16196abf1",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "63d6a9daf21d72c06702ca9498940767",
+    "zyyjfxdm": "1040321034105111011",
+    "dwdm": "10403",
+    "dwmc": "南昌大学",
+    "schId": "368259",
+    "szssm": "36",
+    "szss": "江西",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "1",
+    "b985": "0",
+    "b211": "1",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "034",
+    "yxsmc": "第二临床医学院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": null,
+    "yjfxdm": "01",
+    "yjfxmc": "临床医疗技能训练与研究(普外)",
+    "zdjs": "不区分导师",
+    "nzsrs": 44,
+    "nzsrsstr": "研究方向：41(不含推免)",
+    "xxfs": "1",
+    "gbfs": "3",
+    "tydxs": "1",
+    "jsggjh": "1",
+    "ssjstmrs": 3,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "1d02a8d61daf2882bebdf0d16196abf1",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "61251d576186cd272d5b56decf856199",
+    "zyyjfxdm": "1040321034105111021",
+    "dwdm": "10403",
+    "dwmc": "南昌大学",
+    "schId": "368259",
+    "szssm": "36",
+    "szss": "江西",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "1",
+    "b985": "0",
+    "b211": "1",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "034",
+    "yxsmc": "第二临床医学院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": null,
+    "yjfxdm": "02",
+    "yjfxmc": "临床医疗技能训练与研究(泌尿外)",
+    "zdjs": "不区分导师",
+    "nzsrs": 10,
+    "nzsrsstr": "研究方向：8(不含推免)",
+    "xxfs": "1",
+    "gbfs": "3",
+    "tydxs": "1",
+    "jsggjh": "1",
+    "ssjstmrs": 2,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "1d02a8d61daf2882bebdf0d16196abf1",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "4854224d2be9683cc7c267423aa3047b",
+    "zyyjfxdm": "1040321034105111031",
+    "dwdm": "10403",
+    "dwmc": "南昌大学",
+    "schId": "368259",
+    "szssm": "36",
+    "szss": "江西",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "1",
+    "b985": "0",
+    "b211": "1",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "034",
+    "yxsmc": "第二临床医学院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": null,
+    "yjfxdm": "03",
+    "yjfxmc": "临床医疗技能训练与研究（胸外）",
+    "zdjs": "不区分导师",
+    "nzsrs": 4,
+    "nzsrsstr": "研究方向：3(不含推免)",
+    "xxfs": "1",
+    "gbfs": "3",
+    "tydxs": "1",
+    "jsggjh": "1",
+    "ssjstmrs": 1,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "1d02a8d61daf2882bebdf0d16196abf1",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "b8e79675b1316d73c8e236ee512d95dc",
+    "zyyjfxdm": "1040321034105111041",
+    "dwdm": "10403",
+    "dwmc": "南昌大学",
+    "schId": "368259",
+    "szssm": "36",
+    "szss": "江西",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "1",
+    "b985": "0",
+    "b211": "1",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "034",
+    "yxsmc": "第二临床医学院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": null,
+    "yjfxdm": "04",
+    "yjfxmc": "临床医疗技能训练与研究(心脏大血管外科)",
+    "zdjs": "不区分导师",
+    "nzsrs": 9,
+    "nzsrsstr": "研究方向：8(不含推免)",
+    "xxfs": "1",
+    "gbfs": "3",
+    "tydxs": "1",
+    "jsggjh": "1",
+    "ssjstmrs": 1,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "1d02a8d61daf2882bebdf0d16196abf1",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "e730849889333fee8af75e089a858ec1",
+    "zyyjfxdm": "1040321034105111051",
+    "dwdm": "10403",
+    "dwmc": "南昌大学",
+    "schId": "368259",
+    "szssm": "36",
+    "szss": "江西",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "1",
+    "b985": "0",
+    "b211": "1",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "034",
+    "yxsmc": "第二临床医学院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": null,
+    "yjfxdm": "05",
+    "yjfxmc": "临床医疗技能训练与研究(神外)",
+    "zdjs": "不区分导师",
+    "nzsrs": 20,
+    "nzsrsstr": "研究方向：18(不含推免)",
+    "xxfs": "1",
+    "gbfs": "3",
+    "tydxs": "1",
+    "jsggjh": "1",
+    "ssjstmrs": 2,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "1d02a8d61daf2882bebdf0d16196abf1",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "3c103c600e0949805633d29fec6c8c9c",
+    "zyyjfxdm": "1040321034105111061",
+    "dwdm": "10403",
+    "dwmc": "南昌大学",
+    "schId": "368259",
+    "szssm": "36",
+    "szss": "江西",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "1",
+    "b985": "0",
+    "b211": "1",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "034",
+    "yxsmc": "第二临床医学院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": null,
+    "yjfxdm": "06",
+    "yjfxmc": "临床医疗技能训练与研究(整形)",
+    "zdjs": "不区分导师",
+    "nzsrs": 1,
+    "nzsrsstr": "研究方向：1(不含推免)",
+    "xxfs": "1",
+    "gbfs": "3",
+    "tydxs": "1",
+    "jsggjh": "1",
+    "ssjstmrs": 0,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "1d02a8d61daf2882bebdf0d16196abf1",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "66b253fea09d9b99cf644ec52adf46f8",
+    "zyyjfxdm": "1040321035105111011",
+    "dwdm": "10403",
+    "dwmc": "南昌大学",
+    "schId": "368259",
+    "szssm": "36",
+    "szss": "江西",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "1",
+    "b985": "0",
+    "b211": "1",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "035",
+    "yxsmc": "康复学院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": null,
+    "yjfxdm": "01",
+    "yjfxmc": "临床医疗技能训练与研究(普外)",
+    "zdjs": "不区分导师",
+    "nzsrs": 3,
+    "nzsrsstr": "研究方向：2(不含推免)",
+    "xxfs": "1",
+    "gbfs": "3",
+    "tydxs": "1",
+    "jsggjh": "1",
+    "ssjstmrs": 1,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "1d02a8d61daf2882bebdf0d16196abf1",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "3469b7536db423c2bae164dc26acfdc2",
+    "zyyjfxdm": "1040321036105111011",
+    "dwdm": "10403",
+    "dwmc": "南昌大学",
+    "schId": "368259",
+    "szssm": "36",
+    "szss": "江西",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "1",
+    "b985": "0",
+    "b211": "1",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "036",
+    "yxsmc": "非直属附属医院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": null,
+    "yjfxdm": "01",
+    "yjfxmc": "临床医疗技能训练与研究(普外)",
+    "zdjs": "不区分导师",
+    "nzsrs": 0,
+    "nzsrsstr": "专业：44(不含推免)",
+    "xxfs": "1",
+    "gbfs": "2",
+    "tydxs": "1",
+    "jsggjh": "1",
+    "ssjstmrs": 0,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "1d02a8d61daf2882bebdf0d16196abf1",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "91635545c8ebd24ed404450d37963cf5",
+    "zyyjfxdm": "1040321036105111021",
+    "dwdm": "10403",
+    "dwmc": "南昌大学",
+    "schId": "368259",
+    "szssm": "36",
+    "szss": "江西",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "1",
+    "b985": "0",
+    "b211": "1",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "036",
+    "yxsmc": "非直属附属医院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": null,
+    "yjfxdm": "02",
+    "yjfxmc": "临床医疗技能训练与研究(泌尿外)",
+    "zdjs": "不区分导师",
+    "nzsrs": 0,
+    "nzsrsstr": "专业：44(不含推免)",
+    "xxfs": "1",
+    "gbfs": "2",
+    "tydxs": "1",
+    "jsggjh": "1",
+    "ssjstmrs": 0,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "1d02a8d61daf2882bebdf0d16196abf1",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "6eac5d30e7247d492f318a46a0e6a0a0",
+    "zyyjfxdm": "1040321036105111031",
+    "dwdm": "10403",
+    "dwmc": "南昌大学",
+    "schId": "368259",
+    "szssm": "36",
+    "szss": "江西",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "1",
+    "b985": "0",
+    "b211": "1",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "036",
+    "yxsmc": "非直属附属医院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": null,
+    "yjfxdm": "03",
+    "yjfxmc": "临床医疗技能训练与研究(胸心外)",
+    "zdjs": "不区分导师",
+    "nzsrs": 0,
+    "nzsrsstr": "专业：44(不含推免)",
+    "xxfs": "1",
+    "gbfs": "2",
+    "tydxs": "1",
+    "jsggjh": "1",
+    "ssjstmrs": 0,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "1d02a8d61daf2882bebdf0d16196abf1",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "b1574a2af2ded492bb12c5eb955a9e9d",
+    "zyyjfxdm": "1040321036105111041",
+    "dwdm": "10403",
+    "dwmc": "南昌大学",
+    "schId": "368259",
+    "szssm": "36",
+    "szss": "江西",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "1",
+    "b985": "0",
+    "b211": "1",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "036",
+    "yxsmc": "非直属附属医院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": null,
+    "yjfxdm": "04",
+    "yjfxmc": "临床医疗技能训练与研究(神外)",
+    "zdjs": "不区分导师",
+    "nzsrs": 0,
+    "nzsrsstr": "专业：44(不含推免)",
+    "xxfs": "1",
+    "gbfs": "2",
+    "tydxs": "1",
+    "jsggjh": "1",
+    "ssjstmrs": 0,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "1d02a8d61daf2882bebdf0d16196abf1",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "536f5faa10905480bbbd76d068f0367b",
+    "zyyjfxdm": "1040321036105111051",
+    "dwdm": "10403",
+    "dwmc": "南昌大学",
+    "schId": "368259",
+    "szssm": "36",
+    "szss": "江西",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "1",
+    "b985": "0",
+    "b211": "1",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "036",
+    "yxsmc": "非直属附属医院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": null,
+    "yjfxdm": "05",
+    "yjfxmc": "临床医疗技能训练与研究(整形)",
+    "zdjs": "不区分导师",
+    "nzsrs": 0,
+    "nzsrsstr": "专业：44(不含推免)",
+    "xxfs": "1",
+    "gbfs": "2",
+    "tydxs": "1",
+    "jsggjh": "1",
+    "ssjstmrs": 0,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "1d02a8d61daf2882bebdf0d16196abf1",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "288aff1a70a0a5142df21d3a0f9a7cf4",
+    "zyyjfxdm": "1040321036105111061",
+    "dwdm": "10403",
+    "dwmc": "南昌大学",
+    "schId": "368259",
+    "szssm": "36",
+    "szss": "江西",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "1",
+    "b985": "0",
+    "b211": "1",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "036",
+    "yxsmc": "非直属附属医院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": null,
+    "yjfxdm": "06",
+    "yjfxmc": "临床医疗技能训练与研究(烧伤)",
+    "zdjs": "不区分导师",
+    "nzsrs": 0,
+    "nzsrsstr": "专业：44(不含推免)",
+    "xxfs": "1",
+    "gbfs": "2",
+    "tydxs": "1",
+    "jsggjh": "1",
+    "ssjstmrs": 0,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "1d02a8d61daf2882bebdf0d16196abf1",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,392 @@
+[
+  {
+    "id": "c0a9ccc94b05801cf672069671222283",
+    "zyyjfxdm": "1006221220105111011",
+    "dwdm": "10062",
+    "dwmc": "天津医科大学",
+    "schId": "367938",
+    "szssm": "12",
+    "szss": "天津",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "1",
+    "b985": "0",
+    "b211": "1",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "220",
+    "yxsmc": "临床医学部",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": null,
+    "yjfxdm": "01",
+    "yjfxmc": "普外",
+    "zdjs": null,
+    "nzsrs": 0,
+    "nzsrsstr": "专业：38(不含推免)",
+    "xxfs": "1",
+    "gbfs": "2",
+    "tydxs": "0",
+    "jsggjh": "1",
+    "ssjstmrs": 0,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "fa22310ee353d6717a6f3b1c136e0ee2",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "4150e84630a97a78beeefec83b24c970",
+    "zyyjfxdm": "1006221220105111021",
+    "dwdm": "10062",
+    "dwmc": "天津医科大学",
+    "schId": "367938",
+    "szssm": "12",
+    "szss": "天津",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "1",
+    "b985": "0",
+    "b211": "1",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "220",
+    "yxsmc": "临床医学部",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": null,
+    "yjfxdm": "02",
+    "yjfxmc": "骨外",
+    "zdjs": null,
+    "nzsrs": 0,
+    "nzsrsstr": "专业：38(不含推免)",
+    "xxfs": "1",
+    "gbfs": "2",
+    "tydxs": "0",
+    "jsggjh": "1",
+    "ssjstmrs": 0,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "fa22310ee353d6717a6f3b1c136e0ee2",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "26a4667e63320f9e4f0df75519c127be",
+    "zyyjfxdm": "1006221220105111031",
+    "dwdm": "10062",
+    "dwmc": "天津医科大学",
+    "schId": "367938",
+    "szssm": "12",
+    "szss": "天津",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "1",
+    "b985": "0",
+    "b211": "1",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "220",
+    "yxsmc": "临床医学部",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": null,
+    "yjfxdm": "03",
+    "yjfxmc": "泌尿外",
+    "zdjs": null,
+    "nzsrs": 0,
+    "nzsrsstr": "专业：38(不含推免)",
+    "xxfs": "1",
+    "gbfs": "2",
+    "tydxs": "0",
+    "jsggjh": "1",
+    "ssjstmrs": 0,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "fa22310ee353d6717a6f3b1c136e0ee2",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "82737e949d67b5d2ebb29234e79d1b77",
+    "zyyjfxdm": "1006221220105111041",
+    "dwdm": "10062",
+    "dwmc": "天津医科大学",
+    "schId": "367938",
+    "szssm": "12",
+    "szss": "天津",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "1",
+    "b985": "0",
+    "b211": "1",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "220",
+    "yxsmc": "临床医学部",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": null,
+    "yjfxdm": "04",
+    "yjfxmc": "胸心外",
+    "zdjs": null,
+    "nzsrs": 0,
+    "nzsrsstr": "专业：38(不含推免)",
+    "xxfs": "1",
+    "gbfs": "2",
+    "tydxs": "0",
+    "jsggjh": "1",
+    "ssjstmrs": 0,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "fa22310ee353d6717a6f3b1c136e0ee2",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ad473b029de0129ea4e275ce0774a2aa",
+    "zyyjfxdm": "1006221220105111051",
+    "dwdm": "10062",
+    "dwmc": "天津医科大学",
+    "schId": "367938",
+    "szssm": "12",
+    "szss": "天津",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "1",
+    "b985": "0",
+    "b211": "1",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "220",
+    "yxsmc": "临床医学部",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": null,
+    "yjfxdm": "05",
+    "yjfxmc": "神外",
+    "zdjs": null,
+    "nzsrs": 0,
+    "nzsrsstr": "专业：38(不含推免)",
+    "xxfs": "1",
+    "gbfs": "2",
+    "tydxs": "0",
+    "jsggjh": "1",
+    "ssjstmrs": 0,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "fa22310ee353d6717a6f3b1c136e0ee2",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "800a02fbaf3dbd9b37d6672fa3211f5d",
+    "zyyjfxdm": "1006221220105111071",
+    "dwdm": "10062",
+    "dwmc": "天津医科大学",
+    "schId": "367938",
+    "szssm": "12",
+    "szss": "天津",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "1",
+    "b985": "0",
+    "b211": "1",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "220",
+    "yxsmc": "临床医学部",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": null,
+    "yjfxdm": "07",
+    "yjfxmc": "整形",
+    "zdjs": null,
+    "nzsrs": 0,
+    "nzsrsstr": "专业：38(不含推免)",
+    "xxfs": "1",
+    "gbfs": "2",
+    "tydxs": "0",
+    "jsggjh": "1",
+    "ssjstmrs": 0,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "fa22310ee353d6717a6f3b1c136e0ee2",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  }
+]

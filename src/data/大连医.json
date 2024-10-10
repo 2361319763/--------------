@@ -1,0 +1,847 @@
+[
+  {
+    "id": "dab400a6824d0aa92b39b95e3f1d65e2",
+    "zyyjfxdm": "1016121003105111011",
+    "dwdm": "10161",
+    "dwmc": "大连医科大学",
+    "schId": "368046",
+    "szssm": "21",
+    "szss": "辽宁",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "0",
+    "b985": "0",
+    "b211": "0",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "003",
+    "yxsmc": "附属第一医院及所辖基地",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": null,
+    "yjfxdm": "01",
+    "yjfxmc": "普外",
+    "zdjs": "0",
+    "nzsrs": 30,
+    "nzsrsstr": "研究方向：12(不含推免)",
+    "xxfs": "1",
+    "gbfs": "3",
+    "tydxs": "1",
+    "jsggjh": "0",
+    "ssjstmrs": 2,
+    "ssncszjh": 0,
+    "cxzrs": 16,
+    "sign": "e46af6550ee6973f380fa850f64105db",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cacf7d61b5df2d3dafdf22891318cf46",
+    "zyyjfxdm": "1016121003105111021",
+    "dwdm": "10161",
+    "dwmc": "大连医科大学",
+    "schId": "368046",
+    "szssm": "21",
+    "szss": "辽宁",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "0",
+    "b985": "0",
+    "b211": "0",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "003",
+    "yxsmc": "附属第一医院及所辖基地",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": null,
+    "yjfxdm": "02",
+    "yjfxmc": "泌尿外",
+    "zdjs": "0",
+    "nzsrs": 8,
+    "nzsrsstr": "研究方向：3(不含推免)",
+    "xxfs": "1",
+    "gbfs": "3",
+    "tydxs": "0",
+    "jsggjh": "0",
+    "ssjstmrs": 2,
+    "ssncszjh": 0,
+    "cxzrs": 3,
+    "sign": "e46af6550ee6973f380fa850f64105db",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "e01854552c00255caa5dace28d3e4177",
+    "zyyjfxdm": "1016121003105111031",
+    "dwdm": "10161",
+    "dwmc": "大连医科大学",
+    "schId": "368046",
+    "szssm": "21",
+    "szss": "辽宁",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "0",
+    "b985": "0",
+    "b211": "0",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "003",
+    "yxsmc": "附属第一医院及所辖基地",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": null,
+    "yjfxdm": "03",
+    "yjfxmc": "胸心外",
+    "zdjs": "0",
+    "nzsrs": 6,
+    "nzsrsstr": "研究方向：2(不含推免)",
+    "xxfs": "1",
+    "gbfs": "3",
+    "tydxs": "1",
+    "jsggjh": "0",
+    "ssjstmrs": 0,
+    "ssncszjh": 0,
+    "cxzrs": 4,
+    "sign": "e46af6550ee6973f380fa850f64105db",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "9cbc8b80688a415c34b0b199f29a2688",
+    "zyyjfxdm": "1016121003105111041",
+    "dwdm": "10161",
+    "dwmc": "大连医科大学",
+    "schId": "368046",
+    "szssm": "21",
+    "szss": "辽宁",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "0",
+    "b985": "0",
+    "b211": "0",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "003",
+    "yxsmc": "附属第一医院及所辖基地",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": null,
+    "yjfxdm": "04",
+    "yjfxmc": "神外",
+    "zdjs": "0",
+    "nzsrs": 7,
+    "nzsrsstr": "研究方向：5(不含推免)",
+    "xxfs": "1",
+    "gbfs": "3",
+    "tydxs": "0",
+    "jsggjh": "0",
+    "ssjstmrs": 2,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "e46af6550ee6973f380fa850f64105db",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "94bc78be9559684482d298aeb381f9c5",
+    "zyyjfxdm": "1016121003105111051",
+    "dwdm": "10161",
+    "dwmc": "大连医科大学",
+    "schId": "368046",
+    "szssm": "21",
+    "szss": "辽宁",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "0",
+    "b985": "0",
+    "b211": "0",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "003",
+    "yxsmc": "附属第一医院及所辖基地",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": null,
+    "yjfxdm": "05",
+    "yjfxmc": "整形",
+    "zdjs": "0",
+    "nzsrs": 7,
+    "nzsrsstr": "研究方向：4(不含推免)",
+    "xxfs": "1",
+    "gbfs": "3",
+    "tydxs": "0",
+    "jsggjh": "0",
+    "ssjstmrs": 2,
+    "ssncszjh": 0,
+    "cxzrs": 1,
+    "sign": "e46af6550ee6973f380fa850f64105db",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "455ae3030639b7178e72dcaecaf778b4",
+    "zyyjfxdm": "1016121004105111011",
+    "dwdm": "10161",
+    "dwmc": "大连医科大学",
+    "schId": "368046",
+    "szssm": "21",
+    "szss": "辽宁",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "0",
+    "b985": "0",
+    "b211": "0",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "004",
+    "yxsmc": "附属第二医院及所辖基地",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": null,
+    "yjfxdm": "01",
+    "yjfxmc": "普外",
+    "zdjs": "0",
+    "nzsrs": 29,
+    "nzsrsstr": "研究方向：9(不含推免)",
+    "xxfs": "1",
+    "gbfs": "3",
+    "tydxs": "0",
+    "jsggjh": "0",
+    "ssjstmrs": 2,
+    "ssncszjh": 0,
+    "cxzrs": 18,
+    "sign": "e46af6550ee6973f380fa850f64105db",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "b3e1d3dbfafc395eed962d5e278b8164",
+    "zyyjfxdm": "1016121004105111021",
+    "dwdm": "10161",
+    "dwmc": "大连医科大学",
+    "schId": "368046",
+    "szssm": "21",
+    "szss": "辽宁",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "0",
+    "b985": "0",
+    "b211": "0",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "004",
+    "yxsmc": "附属第二医院及所辖基地",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": null,
+    "yjfxdm": "02",
+    "yjfxmc": "泌尿外",
+    "zdjs": "0",
+    "nzsrs": 10,
+    "nzsrsstr": "研究方向：5(不含推免)",
+    "xxfs": "1",
+    "gbfs": "3",
+    "tydxs": "0",
+    "jsggjh": "0",
+    "ssjstmrs": 2,
+    "ssncszjh": 0,
+    "cxzrs": 3,
+    "sign": "e46af6550ee6973f380fa850f64105db",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "af669feaefe22f3d45b365bc64f336f2",
+    "zyyjfxdm": "1016121004105111031",
+    "dwdm": "10161",
+    "dwmc": "大连医科大学",
+    "schId": "368046",
+    "szssm": "21",
+    "szss": "辽宁",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "0",
+    "b985": "0",
+    "b211": "0",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "004",
+    "yxsmc": "附属第二医院及所辖基地",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": null,
+    "yjfxdm": "03",
+    "yjfxmc": "胸心外",
+    "zdjs": "0",
+    "nzsrs": 9,
+    "nzsrsstr": "研究方向：3(不含推免)",
+    "xxfs": "1",
+    "gbfs": "3",
+    "tydxs": "0",
+    "jsggjh": "0",
+    "ssjstmrs": 1,
+    "ssncszjh": 0,
+    "cxzrs": 5,
+    "sign": "e46af6550ee6973f380fa850f64105db",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "4ca2257691429aa92a35a0b85a9f5c48",
+    "zyyjfxdm": "1016121004105111041",
+    "dwdm": "10161",
+    "dwmc": "大连医科大学",
+    "schId": "368046",
+    "szssm": "21",
+    "szss": "辽宁",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "0",
+    "b985": "0",
+    "b211": "0",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "004",
+    "yxsmc": "附属第二医院及所辖基地",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": null,
+    "yjfxdm": "04",
+    "yjfxmc": "神外",
+    "zdjs": "0",
+    "nzsrs": 12,
+    "nzsrsstr": "研究方向：9(不含推免)",
+    "xxfs": "1",
+    "gbfs": "3",
+    "tydxs": "1",
+    "jsggjh": "0",
+    "ssjstmrs": 3,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "e46af6550ee6973f380fa850f64105db",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "1baeba62fed04450a60354a7f9466e5a",
+    "zyyjfxdm": "1016121004105111051",
+    "dwdm": "10161",
+    "dwmc": "大连医科大学",
+    "schId": "368046",
+    "szssm": "21",
+    "szss": "辽宁",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "0",
+    "b985": "0",
+    "b211": "0",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "004",
+    "yxsmc": "附属第二医院及所辖基地",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": null,
+    "yjfxdm": "05",
+    "yjfxmc": "整形",
+    "zdjs": "0",
+    "nzsrs": 4,
+    "nzsrsstr": "研究方向：2(不含推免)",
+    "xxfs": "1",
+    "gbfs": "3",
+    "tydxs": "0",
+    "jsggjh": "0",
+    "ssjstmrs": 1,
+    "ssncszjh": 0,
+    "cxzrs": 1,
+    "sign": "e46af6550ee6973f380fa850f64105db",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "e5557d0f245e5ccee6688c50b0bbcc23",
+    "zyyjfxdm": "1016121018105111011",
+    "dwdm": "10161",
+    "dwmc": "大连医科大学",
+    "schId": "368046",
+    "szssm": "21",
+    "szss": "辽宁",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "0",
+    "b985": "0",
+    "b211": "0",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "018",
+    "yxsmc": "大连医科大学北部战区总医院研究生培养基地",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": null,
+    "yjfxdm": "01",
+    "yjfxmc": "普外",
+    "zdjs": "0",
+    "nzsrs": 6,
+    "nzsrsstr": "研究方向：4(不含推免)",
+    "xxfs": "1",
+    "gbfs": "3",
+    "tydxs": "0",
+    "jsggjh": "0",
+    "ssjstmrs": 2,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "e46af6550ee6973f380fa850f64105db",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "542db4d79c5e4d878d21ec74eb96d65a",
+    "zyyjfxdm": "1016121018105111031",
+    "dwdm": "10161",
+    "dwmc": "大连医科大学",
+    "schId": "368046",
+    "szssm": "21",
+    "szss": "辽宁",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "0",
+    "b985": "0",
+    "b211": "0",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "018",
+    "yxsmc": "大连医科大学北部战区总医院研究生培养基地",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": null,
+    "yjfxdm": "03",
+    "yjfxmc": "胸心外",
+    "zdjs": "0",
+    "nzsrs": 3,
+    "nzsrsstr": "研究方向：2(不含推免)",
+    "xxfs": "1",
+    "gbfs": "3",
+    "tydxs": "0",
+    "jsggjh": "0",
+    "ssjstmrs": 0,
+    "ssncszjh": 0,
+    "cxzrs": 1,
+    "sign": "e46af6550ee6973f380fa850f64105db",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "d5bc089196142a2713855ac7f838962e",
+    "zyyjfxdm": "1016121018105111041",
+    "dwdm": "10161",
+    "dwmc": "大连医科大学",
+    "schId": "368046",
+    "szssm": "21",
+    "szss": "辽宁",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "0",
+    "b985": "0",
+    "b211": "0",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "018",
+    "yxsmc": "大连医科大学北部战区总医院研究生培养基地",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": null,
+    "yjfxdm": "04",
+    "yjfxmc": "神外",
+    "zdjs": "0",
+    "nzsrs": 4,
+    "nzsrsstr": "研究方向：2(不含推免)",
+    "xxfs": "1",
+    "gbfs": "3",
+    "tydxs": "0",
+    "jsggjh": "0",
+    "ssjstmrs": 2,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "e46af6550ee6973f380fa850f64105db",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  }
+]

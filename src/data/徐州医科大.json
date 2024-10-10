@@ -1,0 +1,2017 @@
+[
+  {
+    "id": "b852733a8a16e400b0167298e93e1f42",
+    "zyyjfxdm": "1031321102105111011",
+    "dwdm": "10313",
+    "dwmc": "徐州医科大学",
+    "schId": "368195",
+    "szssm": "32",
+    "szss": "江苏",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "0",
+    "b985": "0",
+    "b211": "0",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "102",
+    "yxsmc": "第一临床医学院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": "省级临床重点学科，省级临床重点专科。只招收临床医学专业本科毕业生。",
+    "yjfxdm": "01",
+    "yjfxmc": "普外临床技能培训与研究",
+    "zdjs": null,
+    "nzsrs": 0,
+    "nzsrsstr": "专业：64(不含推免)",
+    "xxfs": "1",
+    "gbfs": "2",
+    "tydxs": "1",
+    "jsggjh": "0",
+    "ssjstmrs": 0,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "06657b6345c53b9326d8d46cdf239e42",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "e8e3cc76d89ece0f8d91e031db83082a",
+    "zyyjfxdm": "1031321102105111021",
+    "dwdm": "10313",
+    "dwmc": "徐州医科大学",
+    "schId": "368195",
+    "szssm": "32",
+    "szss": "江苏",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "0",
+    "b985": "0",
+    "b211": "0",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "102",
+    "yxsmc": "第一临床医学院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": "只招收临床医学专业本科毕业生。",
+    "yjfxdm": "02",
+    "yjfxmc": "泌尿外临床技能培训与研究",
+    "zdjs": null,
+    "nzsrs": 0,
+    "nzsrsstr": "专业：64(不含推免)",
+    "xxfs": "1",
+    "gbfs": "2",
+    "tydxs": "1",
+    "jsggjh": "0",
+    "ssjstmrs": 0,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "06657b6345c53b9326d8d46cdf239e42",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "23786a808bdbfabbb5a4aa39d6ae41d6",
+    "zyyjfxdm": "1031321102105111031",
+    "dwdm": "10313",
+    "dwmc": "徐州医科大学",
+    "schId": "368195",
+    "szssm": "32",
+    "szss": "江苏",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "0",
+    "b985": "0",
+    "b211": "0",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "102",
+    "yxsmc": "第一临床医学院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": "省级重点学科，省级重点临床专科。只招收本科毕业生。",
+    "yjfxdm": "03",
+    "yjfxmc": "胸心外临床技能培训与研究",
+    "zdjs": null,
+    "nzsrs": 0,
+    "nzsrsstr": "专业：64(不含推免)",
+    "xxfs": "1",
+    "gbfs": "2",
+    "tydxs": "1",
+    "jsggjh": "0",
+    "ssjstmrs": 0,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "06657b6345c53b9326d8d46cdf239e42",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "65456763585c0c2b4486dffaac314514",
+    "zyyjfxdm": "1031321102105111041",
+    "dwdm": "10313",
+    "dwmc": "徐州医科大学",
+    "schId": "368195",
+    "szssm": "32",
+    "szss": "江苏",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "0",
+    "b985": "0",
+    "b211": "0",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "102",
+    "yxsmc": "第一临床医学院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": "国家临床重点专科建设单位，“十四五”省医学重点学科、江苏省神经疾病区域医疗中心、江苏省优势学科，江苏省省级临床重点专科。欢迎取得学历和学位证的本科毕业生报考。",
+    "yjfxdm": "04",
+    "yjfxmc": "神外临床技能培训与研究",
+    "zdjs": null,
+    "nzsrs": 0,
+    "nzsrsstr": "专业：64(不含推免)",
+    "xxfs": "1",
+    "gbfs": "2",
+    "tydxs": "1",
+    "jsggjh": "0",
+    "ssjstmrs": 0,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "06657b6345c53b9326d8d46cdf239e42",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ea7cfa5c6b3d536c1f3bddc661b18221",
+    "zyyjfxdm": "1031321102105111051",
+    "dwdm": "10313",
+    "dwmc": "徐州医科大学",
+    "schId": "368195",
+    "szssm": "32",
+    "szss": "江苏",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "0",
+    "b985": "0",
+    "b211": "0",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "102",
+    "yxsmc": "第一临床医学院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": "江苏省临床重点专科，市整形与修复重点实验室，研究经费100多万元。只招收本科毕业生。",
+    "yjfxdm": "05",
+    "yjfxmc": "整形外临床技能培训与研究",
+    "zdjs": null,
+    "nzsrs": 0,
+    "nzsrsstr": "专业：64(不含推免)",
+    "xxfs": "1",
+    "gbfs": "2",
+    "tydxs": "1",
+    "jsggjh": "0",
+    "ssjstmrs": 0,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "06657b6345c53b9326d8d46cdf239e42",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "9e9b846a3f0c5d2025231c85f07dcb62",
+    "zyyjfxdm": "1031321201105111011",
+    "dwdm": "10313",
+    "dwmc": "徐州医科大学",
+    "schId": "368195",
+    "szssm": "32",
+    "szss": "江苏",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "0",
+    "b985": "0",
+    "b211": "0",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "201",
+    "yxsmc": "附属连云港医院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": "连云港市临床重点专科、国家药物临床试验机构临床试验专业科室。招收临床医学专业本科毕业生。",
+    "yjfxdm": "01",
+    "yjfxmc": "普外临床技能培训与研究",
+    "zdjs": null,
+    "nzsrs": 0,
+    "nzsrsstr": "专业：11(不含推免)",
+    "xxfs": "1",
+    "gbfs": "2",
+    "tydxs": "1",
+    "jsggjh": "0",
+    "ssjstmrs": 0,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "06657b6345c53b9326d8d46cdf239e42",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "7a5b7ee469d6dc3d73a017e70f236353",
+    "zyyjfxdm": "1031321201105111021",
+    "dwdm": "10313",
+    "dwmc": "徐州医科大学",
+    "schId": "368195",
+    "szssm": "32",
+    "szss": "江苏",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "0",
+    "b985": "0",
+    "b211": "0",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "201",
+    "yxsmc": "附属连云港医院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": "连云港市临床重点专科、国家内镜培训基地。招收临床医学专业本科毕业生。",
+    "yjfxdm": "02",
+    "yjfxmc": "泌尿外临床技能培训与研究",
+    "zdjs": null,
+    "nzsrs": 0,
+    "nzsrsstr": "专业：11(不含推免)",
+    "xxfs": "1",
+    "gbfs": "2",
+    "tydxs": "1",
+    "jsggjh": "0",
+    "ssjstmrs": 0,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "06657b6345c53b9326d8d46cdf239e42",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "53f83987a6af2ac2530174b2d187effd",
+    "zyyjfxdm": "1031321201105111031",
+    "dwdm": "10313",
+    "dwmc": "徐州医科大学",
+    "schId": "368195",
+    "szssm": "32",
+    "szss": "江苏",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "0",
+    "b985": "0",
+    "b211": "0",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "201",
+    "yxsmc": "附属连云港医院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": "江苏省医学创新团队，江苏省临床重点专科，在全国较早成立颅底外科、神经生物两个省内先进的实验室。招收临床医学专业本科毕业生。",
+    "yjfxdm": "03",
+    "yjfxmc": "神外临床技能培训与研究",
+    "zdjs": null,
+    "nzsrs": 0,
+    "nzsrsstr": "专业：11(不含推免)",
+    "xxfs": "1",
+    "gbfs": "2",
+    "tydxs": "1",
+    "jsggjh": "0",
+    "ssjstmrs": 0,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "06657b6345c53b9326d8d46cdf239e42",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "725a40e3ec03ba47d247865cf77e8ceb",
+    "zyyjfxdm": "1031321202105111011",
+    "dwdm": "10313",
+    "dwmc": "徐州医科大学",
+    "schId": "368195",
+    "szssm": "32",
+    "szss": "江苏",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "0",
+    "b985": "0",
+    "b211": "0",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "202",
+    "yxsmc": "附属淮安医院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": "江苏省临床重点专科，在研课题4项。只招收临床医学专业本科毕业生。",
+    "yjfxdm": "01",
+    "yjfxmc": "普外临床技能培训与研究",
+    "zdjs": null,
+    "nzsrs": 0,
+    "nzsrsstr": "专业：8(不含推免)",
+    "xxfs": "1",
+    "gbfs": "2",
+    "tydxs": "1",
+    "jsggjh": "0",
+    "ssjstmrs": 0,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "06657b6345c53b9326d8d46cdf239e42",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "c4796461876d7f45130f560c755b86d2",
+    "zyyjfxdm": "1031321202105111021",
+    "dwdm": "10313",
+    "dwmc": "徐州医科大学",
+    "schId": "368195",
+    "szssm": "32",
+    "szss": "江苏",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "0",
+    "b985": "0",
+    "b211": "0",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "202",
+    "yxsmc": "附属淮安医院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": "淮安市临床重点专科，在研课题5项。只招收临床医学专业本科毕业生。",
+    "yjfxdm": "02",
+    "yjfxmc": "泌尿外临床技能培训与研究",
+    "zdjs": null,
+    "nzsrs": 0,
+    "nzsrsstr": "专业：8(不含推免)",
+    "xxfs": "1",
+    "gbfs": "2",
+    "tydxs": "1",
+    "jsggjh": "0",
+    "ssjstmrs": 0,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "06657b6345c53b9326d8d46cdf239e42",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "c8fc2c4397f6d1dd733c7f61e58e83b6",
+    "zyyjfxdm": "1031321202105111031",
+    "dwdm": "10313",
+    "dwmc": "徐州医科大学",
+    "schId": "368195",
+    "szssm": "32",
+    "szss": "江苏",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "0",
+    "b985": "0",
+    "b211": "0",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "202",
+    "yxsmc": "附属淮安医院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": "江苏省临床重点专科，在研课题2项，研究经费充足。只招收临床医学专业本科毕业生。",
+    "yjfxdm": "03",
+    "yjfxmc": "神外临床技能培训与研究",
+    "zdjs": null,
+    "nzsrs": 0,
+    "nzsrsstr": "专业：8(不含推免)",
+    "xxfs": "1",
+    "gbfs": "2",
+    "tydxs": "1",
+    "jsggjh": "0",
+    "ssjstmrs": 0,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "06657b6345c53b9326d8d46cdf239e42",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "c6b77a8dcbf8c07d0ed2aebb29148d02",
+    "zyyjfxdm": "1031321203105111011",
+    "dwdm": "10313",
+    "dwmc": "徐州医科大学",
+    "schId": "368195",
+    "szssm": "32",
+    "szss": "江苏",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "0",
+    "b985": "0",
+    "b211": "0",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "203",
+    "yxsmc": "第二附属医院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": "徐州市临床重点专科。招收临床医学专业本科毕业生。",
+    "yjfxdm": "01",
+    "yjfxmc": "普外临床技能培训与研究",
+    "zdjs": null,
+    "nzsrs": 0,
+    "nzsrsstr": "专业：3(不含推免)",
+    "xxfs": "1",
+    "gbfs": "2",
+    "tydxs": "1",
+    "jsggjh": "0",
+    "ssjstmrs": 0,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "06657b6345c53b9326d8d46cdf239e42",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "892e3215405ce48cde29414298ac37f0",
+    "zyyjfxdm": "1031321203105111021",
+    "dwdm": "10313",
+    "dwmc": "徐州医科大学",
+    "schId": "368195",
+    "szssm": "32",
+    "szss": "江苏",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "0",
+    "b985": "0",
+    "b211": "0",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "203",
+    "yxsmc": "第二附属医院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": "徐州市临床重点专科。招收临床医学专业本科毕业生。",
+    "yjfxdm": "02",
+    "yjfxmc": "神外临床技能培训与研究",
+    "zdjs": null,
+    "nzsrs": 0,
+    "nzsrsstr": "专业：3(不含推免)",
+    "xxfs": "1",
+    "gbfs": "2",
+    "tydxs": "1",
+    "jsggjh": "0",
+    "ssjstmrs": 0,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "06657b6345c53b9326d8d46cdf239e42",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "f5d6c4c6eef5a434038d712ea72a0450",
+    "zyyjfxdm": "1031321301105111011",
+    "dwdm": "10313",
+    "dwmc": "徐州医科大学",
+    "schId": "368195",
+    "szssm": "32",
+    "szss": "江苏",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "0",
+    "b985": "0",
+    "b211": "0",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "301",
+    "yxsmc": "盐城临床学院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": "省临床重点专科，市医学重点学科和专科。 国家药物临床试验资格认定专业。获省、市级科研奖多项。招收临床医学专业本科毕业生。",
+    "yjfxdm": "01",
+    "yjfxmc": "普外临床技能培训与研究",
+    "zdjs": null,
+    "nzsrs": 0,
+    "nzsrsstr": "专业：4(不含推免)",
+    "xxfs": "1",
+    "gbfs": "2",
+    "tydxs": "1",
+    "jsggjh": "0",
+    "ssjstmrs": 0,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "06657b6345c53b9326d8d46cdf239e42",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "575b58c8123f860c3a781f4c5302ac1b",
+    "zyyjfxdm": "1031321301105111021",
+    "dwdm": "10313",
+    "dwmc": "徐州医科大学",
+    "schId": "368195",
+    "szssm": "32",
+    "szss": "江苏",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "0",
+    "b985": "0",
+    "b211": "0",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "301",
+    "yxsmc": "盐城临床学院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": "招收临床医学专业本科毕业生。",
+    "yjfxdm": "02",
+    "yjfxmc": "泌尿外科临床技能培训与研究",
+    "zdjs": null,
+    "nzsrs": 0,
+    "nzsrsstr": "专业：4(不含推免)",
+    "xxfs": "1",
+    "gbfs": "2",
+    "tydxs": "1",
+    "jsggjh": "0",
+    "ssjstmrs": 0,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "06657b6345c53b9326d8d46cdf239e42",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "4c58ca3c2456039039047dbb3e8bf1cf",
+    "zyyjfxdm": "1031321301105111031",
+    "dwdm": "10313",
+    "dwmc": "徐州医科大学",
+    "schId": "368195",
+    "szssm": "32",
+    "szss": "江苏",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "0",
+    "b985": "0",
+    "b211": "0",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "301",
+    "yxsmc": "盐城临床学院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": "市医学重点学科和专科。在研项目3项，获市科技奖2项。招收临床医学专业本科毕业生。",
+    "yjfxdm": "03",
+    "yjfxmc": "胸心外临床技能培训与研究",
+    "zdjs": null,
+    "nzsrs": 0,
+    "nzsrsstr": "专业：4(不含推免)",
+    "xxfs": "1",
+    "gbfs": "2",
+    "tydxs": "1",
+    "jsggjh": "0",
+    "ssjstmrs": 0,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "06657b6345c53b9326d8d46cdf239e42",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "4e147bab521370e2e6684c3857f5e8a2",
+    "zyyjfxdm": "1031321301105111041",
+    "dwdm": "10313",
+    "dwmc": "徐州医科大学",
+    "schId": "368195",
+    "szssm": "32",
+    "szss": "江苏",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "0",
+    "b985": "0",
+    "b211": "0",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "301",
+    "yxsmc": "盐城临床学院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": "江苏省临床重点专科。盐城市医学重点学科和专科。国家药物临床试验资格认定专业。获省、市级科研奖多项。科室省部级课题多项。招收临床医学专业本科毕业生。",
+    "yjfxdm": "04",
+    "yjfxmc": "神外临床技能培训与研究",
+    "zdjs": null,
+    "nzsrs": 0,
+    "nzsrsstr": "专业：4(不含推免)",
+    "xxfs": "1",
+    "gbfs": "2",
+    "tydxs": "1",
+    "jsggjh": "0",
+    "ssjstmrs": 0,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "06657b6345c53b9326d8d46cdf239e42",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "55edad7e4f871f3183d33ea15d2d64f3",
+    "zyyjfxdm": "1031321302105111011",
+    "dwdm": "10313",
+    "dwmc": "徐州医科大学",
+    "schId": "368195",
+    "szssm": "32",
+    "szss": "江苏",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "0",
+    "b985": "0",
+    "b211": "0",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "302",
+    "yxsmc": "江阴临床学院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": "无锡市级临床重点专科，获国自然基金项目，多项省市科研项目。国家级药物临床试验认定专业。只招收西医临床医学专业本科毕业生。",
+    "yjfxdm": "01",
+    "yjfxmc": "普外临床技能培训与研究",
+    "zdjs": null,
+    "nzsrs": 0,
+    "nzsrsstr": "专业：4(不含推免)",
+    "xxfs": "1",
+    "gbfs": "2",
+    "tydxs": "1",
+    "jsggjh": "0",
+    "ssjstmrs": 0,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "06657b6345c53b9326d8d46cdf239e42",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "16ff6f6585e92cbff2baab490d943b76",
+    "zyyjfxdm": "1031321302105111021",
+    "dwdm": "10313",
+    "dwmc": "徐州医科大学",
+    "schId": "368195",
+    "szssm": "32",
+    "szss": "江苏",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "0",
+    "b985": "0",
+    "b211": "0",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "302",
+    "yxsmc": "江阴临床学院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": "无锡市临床重点专科，省内同级医院处于领先水平。招收西医临床医学专业本科毕业生。",
+    "yjfxdm": "02",
+    "yjfxmc": "胸心外临床技能培训与研究",
+    "zdjs": null,
+    "nzsrs": 0,
+    "nzsrsstr": "专业：4(不含推免)",
+    "xxfs": "1",
+    "gbfs": "2",
+    "tydxs": "1",
+    "jsggjh": "0",
+    "ssjstmrs": 0,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "06657b6345c53b9326d8d46cdf239e42",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "66d8f5a16d771aef77acbd573ea18af4",
+    "zyyjfxdm": "1031321302105111031",
+    "dwdm": "10313",
+    "dwmc": "徐州医科大学",
+    "schId": "368195",
+    "szssm": "32",
+    "szss": "江苏",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "0",
+    "b985": "0",
+    "b211": "0",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "302",
+    "yxsmc": "江阴临床学院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": "江苏省级临床重点专科，国家级药物临床试验认定专业，获省市级科研及新技术引进奖多项。招收西医临床医学专业本科毕业生。",
+    "yjfxdm": "03",
+    "yjfxmc": "神外临床技能培训与研究",
+    "zdjs": null,
+    "nzsrs": 0,
+    "nzsrsstr": "专业：4(不含推免)",
+    "xxfs": "1",
+    "gbfs": "2",
+    "tydxs": "1",
+    "jsggjh": "0",
+    "ssjstmrs": 0,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "06657b6345c53b9326d8d46cdf239e42",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "10a284e6097198d9ea1b46fbcb92507c",
+    "zyyjfxdm": "1031321303105111011",
+    "dwdm": "10313",
+    "dwmc": "徐州医科大学",
+    "schId": "368195",
+    "szssm": "32",
+    "szss": "江苏",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "0",
+    "b985": "0",
+    "b211": "0",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "303",
+    "yxsmc": "徐州临床学院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": "市级临床重点专科,国家级临床示范中医肛肠科。招收临床医学专业本科毕业生。",
+    "yjfxdm": "01",
+    "yjfxmc": "普外临床技能培训与研究",
+    "zdjs": null,
+    "nzsrs": 0,
+    "nzsrsstr": "专业：4(不含推免)",
+    "xxfs": "1",
+    "gbfs": "2",
+    "tydxs": "1",
+    "jsggjh": "0",
+    "ssjstmrs": 0,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "06657b6345c53b9326d8d46cdf239e42",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "c137dd836b9785284c8e719dc615c8ac",
+    "zyyjfxdm": "1031321303105111021",
+    "dwdm": "10313",
+    "dwmc": "徐州医科大学",
+    "schId": "368195",
+    "szssm": "32",
+    "szss": "江苏",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "0",
+    "b985": "0",
+    "b211": "0",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "303",
+    "yxsmc": "徐州临床学院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": "江苏省医学创新团队和临床重点专科，承担在研国家省市重点项目10余项，研究经费充足。支持研究生参加高水平研究和国内外学术交流。膀胱尿路上皮癌方向。招收临床医学专业本科毕业生。",
+    "yjfxdm": "02",
+    "yjfxmc": "泌尿外临床技能培训与研究",
+    "zdjs": null,
+    "nzsrs": 0,
+    "nzsrsstr": "专业：4(不含推免)",
+    "xxfs": "1",
+    "gbfs": "2",
+    "tydxs": "1",
+    "jsggjh": "0",
+    "ssjstmrs": 0,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "06657b6345c53b9326d8d46cdf239e42",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "32885bd192e45d28bdd1da8776deabe8",
+    "zyyjfxdm": "1031321303105111031",
+    "dwdm": "10313",
+    "dwmc": "徐州医科大学",
+    "schId": "368195",
+    "szssm": "32",
+    "szss": "江苏",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "0",
+    "b985": "0",
+    "b211": "0",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "303",
+    "yxsmc": "徐州临床学院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": "市级临床重点专科。只招收西医临床医学专业本科毕业生。",
+    "yjfxdm": "03",
+    "yjfxmc": "神外临床技能培训与研究",
+    "zdjs": null,
+    "nzsrs": 0,
+    "nzsrsstr": "专业：4(不含推免)",
+    "xxfs": "1",
+    "gbfs": "2",
+    "tydxs": "1",
+    "jsggjh": "0",
+    "ssjstmrs": 0,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "06657b6345c53b9326d8d46cdf239e42",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "94313110d80d07b1738a488a5a7b3bba",
+    "zyyjfxdm": "1031321304105111011",
+    "dwdm": "10313",
+    "dwmc": "徐州医科大学",
+    "schId": "368195",
+    "szssm": "32",
+    "szss": "江苏",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "0",
+    "b985": "0",
+    "b211": "0",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "304",
+    "yxsmc": "淮安临床学院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": "江苏省临床重点专科。招收临床医学专业本科毕业生。",
+    "yjfxdm": "01",
+    "yjfxmc": "普外临床技能培训与研究",
+    "zdjs": null,
+    "nzsrs": 0,
+    "nzsrsstr": "专业：2(不含推免)",
+    "xxfs": "1",
+    "gbfs": "2",
+    "tydxs": "1",
+    "jsggjh": "0",
+    "ssjstmrs": 0,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "06657b6345c53b9326d8d46cdf239e42",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "0427fd9a436e3758999138fd4bef171f",
+    "zyyjfxdm": "1031321304105111021",
+    "dwdm": "10313",
+    "dwmc": "徐州医科大学",
+    "schId": "368195",
+    "szssm": "32",
+    "szss": "江苏",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "0",
+    "b985": "0",
+    "b211": "0",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "304",
+    "yxsmc": "淮安临床学院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": "江苏省临床重点专科。招收临床医学专业本科毕业生。",
+    "yjfxdm": "02",
+    "yjfxmc": "神外临床技能培训与研究",
+    "zdjs": null,
+    "nzsrs": 0,
+    "nzsrsstr": "专业：2(不含推免)",
+    "xxfs": "1",
+    "gbfs": "2",
+    "tydxs": "1",
+    "jsggjh": "0",
+    "ssjstmrs": 0,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "06657b6345c53b9326d8d46cdf239e42",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "04a3a862de5f1e2464df4757edf1c271",
+    "zyyjfxdm": "1031321305105111011",
+    "dwdm": "10313",
+    "dwmc": "徐州医科大学",
+    "schId": "368195",
+    "szssm": "32",
+    "szss": "江苏",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "0",
+    "b985": "0",
+    "b211": "0",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "305",
+    "yxsmc": "扬州临床学院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": "国家临床重点专科建设单位、江苏省“十四五”重点学科。只招收临床医学专业本科毕业生。",
+    "yjfxdm": "01",
+    "yjfxmc": "普外临床技能培训与研究",
+    "zdjs": null,
+    "nzsrs": 0,
+    "nzsrsstr": "专业：13(不含推免)",
+    "xxfs": "1",
+    "gbfs": "2",
+    "tydxs": "1",
+    "jsggjh": "0",
+    "ssjstmrs": 0,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "06657b6345c53b9326d8d46cdf239e42",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "91bf1dec7edb00b559255e20d27afc65",
+    "zyyjfxdm": "1031321305105111021",
+    "dwdm": "10313",
+    "dwmc": "徐州医科大学",
+    "schId": "368195",
+    "szssm": "32",
+    "szss": "江苏",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "0",
+    "b985": "0",
+    "b211": "0",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "305",
+    "yxsmc": "扬州临床学院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": "省级重点专科。只招收临床医学专业本科毕业生。",
+    "yjfxdm": "02",
+    "yjfxmc": "泌尿外临床技能培训与研究",
+    "zdjs": null,
+    "nzsrs": 0,
+    "nzsrsstr": "专业：13(不含推免)",
+    "xxfs": "1",
+    "gbfs": "2",
+    "tydxs": "1",
+    "jsggjh": "0",
+    "ssjstmrs": 0,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "06657b6345c53b9326d8d46cdf239e42",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "3eecb33658a86dd2c7c209650c233e43",
+    "zyyjfxdm": "1031321305105111031",
+    "dwdm": "10313",
+    "dwmc": "徐州医科大学",
+    "schId": "368195",
+    "szssm": "32",
+    "szss": "江苏",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "0",
+    "b985": "0",
+    "b211": "0",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "305",
+    "yxsmc": "扬州临床学院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": "省级重点专科。只招收临床医学专业本科毕业生。",
+    "yjfxdm": "03",
+    "yjfxmc": "胸心外临床技能培训与研究",
+    "zdjs": null,
+    "nzsrs": 0,
+    "nzsrsstr": "专业：13(不含推免)",
+    "xxfs": "1",
+    "gbfs": "2",
+    "tydxs": "1",
+    "jsggjh": "0",
+    "ssjstmrs": 0,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "06657b6345c53b9326d8d46cdf239e42",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "8b124db18bbc9c95f8d7065d14f21e90",
+    "zyyjfxdm": "1031321305105111041",
+    "dwdm": "10313",
+    "dwmc": "徐州医科大学",
+    "schId": "368195",
+    "szssm": "32",
+    "szss": "江苏",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "0",
+    "b985": "0",
+    "b211": "0",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "305",
+    "yxsmc": "扬州临床学院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": "省级重点专科。只招收临床医学专业本科毕业生。",
+    "yjfxdm": "04",
+    "yjfxmc": "神外临床技能培训与研究",
+    "zdjs": null,
+    "nzsrs": 0,
+    "nzsrsstr": "专业：13(不含推免)",
+    "xxfs": "1",
+    "gbfs": "2",
+    "tydxs": "1",
+    "jsggjh": "0",
+    "ssjstmrs": 0,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "06657b6345c53b9326d8d46cdf239e42",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "4bfb51e924c08d538c98ac790cb94c34",
+    "zyyjfxdm": "1031321305105111051",
+    "dwdm": "10313",
+    "dwmc": "徐州医科大学",
+    "schId": "368195",
+    "szssm": "32",
+    "szss": "江苏",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "0",
+    "b985": "0",
+    "b211": "0",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "305",
+    "yxsmc": "扬州临床学院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": "省级重点专科。只招收临床医学专业本科毕业生。",
+    "yjfxdm": "05",
+    "yjfxmc": "整形外临床技能培训与研究",
+    "zdjs": null,
+    "nzsrs": 0,
+    "nzsrsstr": "专业：13(不含推免)",
+    "xxfs": "1",
+    "gbfs": "2",
+    "tydxs": "1",
+    "jsggjh": "0",
+    "ssjstmrs": 0,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "06657b6345c53b9326d8d46cdf239e42",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  },
+  {
+    "id": "17589ee4d21e834527b9cd0fe8ac0340",
+    "zyyjfxdm": "1031321306105111011",
+    "dwdm": "10313",
+    "dwmc": "徐州医科大学",
+    "schId": "368195",
+    "szssm": "32",
+    "szss": "江苏",
+    "szqy": null,
+    "zhx": "0",
+    "bs": "1",
+    "syl": "0",
+    "b985": "0",
+    "b211": "0",
+    "yjsy": "0",
+    "ksfsdm": "21",
+    "ksfsmc": "统考",
+    "yxsdm": "306",
+    "yxsmc": "鼓楼临床学院",
+    "zydm": "105111",
+    "zymc": "外科学",
+    "mldm": "10",
+    "mlmc": "医学",
+    "yjxkdm": "1051",
+    "yjxkmc": "临床医学",
+    "xwlx": "zyxw",
+    "zybz": "国家重点学科、首批国家临床重点专科、江苏省医学重点学科、江苏省临床重点专科、江苏省消化系统疾病及消化道肿瘤临床医学中心、江苏省肝脏外科临床医学中心、南京市普通外科临床医学中心。通过英语六级考试者优先。只招收本科毕业生。",
+    "yjfxdm": "01",
+    "yjfxmc": "普外临床技能培训与研究",
+    "zdjs": null,
+    "nzsrs": 0,
+    "nzsrsstr": "专业：1(不含推免)",
+    "xxfs": "1",
+    "gbfs": "2",
+    "tydxs": "1",
+    "jsggjh": "0",
+    "ssjstmrs": 0,
+    "ssncszjh": 0,
+    "cxzrs": 0,
+    "sign": "06657b6345c53b9326d8d46cdf239e42",
+    "kskmz": [
+      {
+        "km1Vo": {
+          "kskmdm": "101",
+          "kskmmc": "思想政治理论",
+          "cksm": "见招生简章"
+        },
+        "km2Vo": {
+          "kskmdm": "201",
+          "kskmmc": "英语（一）",
+          "cksm": "见招生简章"
+        },
+        "km3Vo": {
+          "kskmdm": "306",
+          "kskmmc": "临床医学综合能力（西医）",
+          "cksm": "见招生简章"
+        },
+        "km4Vo": {
+          "kskmdm": "--",
+          "kskmmc": "无",
+          "cksm": "见招生简章"
+        }
+      }
+    ]
+  }
+]
